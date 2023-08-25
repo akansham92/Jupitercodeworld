@@ -1,2 +1,3 @@
-# Jupitercodeworld
-My coding learning world
+# Mathematical Model
+Statistics in Data Analytics using Python
+
